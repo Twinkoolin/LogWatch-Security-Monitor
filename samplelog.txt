@@ -1,0 +1,8 @@
+INFO User login success
+WARNING Invalid password attempt
+ERROR Database timeout
+INFO File uploaded
+FAILED login from 192.168.1.10
+DENIED access to admin panel
+ERROR Unauthorized API request
+INFO System running
