@@ -27,6 +27,12 @@ python logwatch.py
 ## Example Use Case
 Used by security teams to monitor system activity and identify
 potential intrusion attempts.
+Log analysis
+Threat detection
+Risk scoring systems
+File processing
+Defensive security programming
+Debugging and error handling
 
 ## Author
 Devon Williams
